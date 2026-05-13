@@ -1,5 +1,4 @@
 // Given two strings s and t, return true if t is an anagram of s, and false otherwise.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.Arrays;
 import java.util.Scanner;
