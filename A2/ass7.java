@@ -2,7 +2,6 @@
 // characters. You need to write a program that:
 // 1. Accepts a string input from the user.
 // 2. Checks if all characters in the string are unique.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.HashSet;
 import java.util.Scanner;
