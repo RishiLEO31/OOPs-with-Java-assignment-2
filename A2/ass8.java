@@ -1,5 +1,4 @@
 // A book editor tool requires a function to find the longest word in a given sentence.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.Scanner;
 class LongestWordFinder {
