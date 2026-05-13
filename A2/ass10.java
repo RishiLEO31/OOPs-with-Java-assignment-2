@@ -2,7 +2,6 @@
 // Write a Java program that:
 // 1. Accepts a URL
 // 2. Extracts and displays only the domain name not the www.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.Scanner;
 class DomainExtractor {
