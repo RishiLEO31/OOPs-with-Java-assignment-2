@@ -8,7 +8,6 @@
 // Must not have space or slash characters.
 // Starting character must not be a number.
 // Your task is to implement the CheckPassword function according to the above criteria.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.Scanner;
 class PasswordChecker {
