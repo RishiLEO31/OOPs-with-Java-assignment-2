@@ -2,7 +2,6 @@
 // could represent. Return the answer in any order.
 // A mapping of digit to letters (just like on the telephone buttons) is given below. 
 // Note that 1 does not map to any letters.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.ArrayList;
 import java.util.List;
