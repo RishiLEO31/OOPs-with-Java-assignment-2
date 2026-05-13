@@ -1,6 +1,5 @@
 // A content editing software needs a funtion ton convert a sentence into title case, 
 // where the first letter of each word should be uppercase.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.Scanner;
 class TitleCaseConverter {
