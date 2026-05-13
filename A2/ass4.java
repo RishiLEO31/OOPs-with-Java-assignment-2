@@ -1,5 +1,5 @@
 // Java program to find all permuttions of a given string using recursion.
-// Note: You are supposed to use at least two classes and one object in your program.
+
 import java.util.Scanner;
 class Permutations {
     // Function to generate all permutations of a string
