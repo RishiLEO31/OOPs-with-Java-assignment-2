@@ -1,6 +1,5 @@
 // Write a function to find the longest common prefix string amongst an array of strings.
 //  If there is no common prefix, return an empty string.
-// Note: You are supposed to use at least two classes and one object in your program.
 class LongestCommonPrefixFinder {
     public String findLongestCommonPrefix(String[] strings) {
         if (strings == null || strings.length == 0) {
