@@ -1,6 +1,5 @@
 // A social media platform wants to automatically replace offensive words with *** in user-generated content. 
 // Given a list of bad words, replace them in the input text.
-// Note: You are supposed to use at least two classes and one object in your program.
 
 import java.util.Arrays;
 import java.util.List;
